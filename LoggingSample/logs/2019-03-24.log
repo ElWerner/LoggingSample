@@ -1,0 +1,24 @@
+2019-03-24 20:17:42.5936 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:33) | INFO | Start getting customer with id 1. |  | 
+
+2019-03-24 20:17:51.4481 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController+<Get>d__4.MoveNext(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:45) | INFO | Retrieving customer with id 1 to response. |  | 
+
+2019-03-24 21:49:09.6986 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:24) | INFO | Start getting list of customers. |  | 
+
+2019-03-24 21:49:17.3571 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController+<Get>d__2.MoveNext(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:36) | INFO | Retrieving a list of customers to response. |  | 
+
+2019-03-24 21:49:26.6096 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:50) | INFO | Start getting customer with id 1. |  | 
+
+2019-03-24 21:49:26.6736 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController+<Get>d__3.MoveNext(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:62) | INFO | Retrieving customer with id 1 to response. |  | 
+
+2019-03-24 21:49:43.2356 | KSER-ой | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\OrdersController.cs:32) | INFO | Start getting list of customers. |  | 
+
+2019-03-24 21:49:43.2976 | KSER-ой | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController+<Get>d__2.MoveNext(E:\epam-lab\LoggingSample\LoggingSample\Controllers\OrdersController.cs:44) | INFO | Retrieving a list of orders for customerId 1 to response. |  | 
+
+2019-03-24 21:49:53.0771 | KSER-ой | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\OrdersController.cs:58) | INFO | Start getting order with id 1 for customerId 1. |  | 
+
+2019-03-24 21:49:53.3001 | KSER-ой | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController+<Get>d__3.MoveNext(E:\epam-lab\LoggingSample\LoggingSample\Controllers\OrdersController.cs:70) | INFO | Retrieving order with id 1 for customerId 1 to response. |  | 
+
+2019-03-24 21:50:36.2542 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:50) | INFO | Start getting customer with id 56. |  | 
+
+2019-03-24 21:50:36.6252 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+

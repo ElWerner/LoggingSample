@@ -1,0 +1,22 @@
+2019-03-25 00:44:30.9980 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 00:52:27.5651 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:31:47.0338 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:33:14.0380 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:37:56.5233 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:39:01.3505 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:40:39.2642 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:41:41.9786 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:43:43.2557 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:44:15.0415 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+
+2019-03-25 10:45:48.4143 | KSER-ой | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs:70) | WARN | Wrong customerId has been request: 56 |  | 
+

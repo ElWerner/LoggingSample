@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <log MachineName="KSER-ПК" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Info" Message="Start getting customer with id 56." MessageSource="E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-25T10:45:46.5972659+03:00" />
+  <log MachineName="KSER-ПК" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Warn" Message="Wrong customerId has been request: 56" MessageSource="E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-25T10:45:48.4143699+03:00" />
+  <log MachineName="KSER-ПК" Exception="null" LoggerName="LoggingSample.Controllers.CustomersController" Level="Warn" Message="Wrong customerId has been request: 56" MessageSource="E:\epam-lab\LoggingSample\LoggingSample\Controllers\CustomersController.cs" TimeStamp="2019-03-25T10:45:48.4143699+03:00" />
+</logs>
